@@ -10,7 +10,7 @@ int main(void)
 	printf("\nTaiyo\nSuzuki");	//use a second printf() call to print your first and last name on two separate lines
 
 	printf("\nTaiyo ");			//uses a pair of printf() calls to print your first and last names on one line
-	printf("Suzuki");
+	printf("Suzuki\n");
 
 	return 0;
 }
