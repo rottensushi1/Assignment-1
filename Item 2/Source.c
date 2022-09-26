@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 //Taiyo Suzuki
 //Sept 23, 2022
 //PROG71985 - Assignment 1
