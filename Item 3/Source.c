@@ -3,6 +3,9 @@
 //Sept 23, 2022
 //Item 3: Prompt the user to input two floats and output their sum, product, and quotient
 
+
+//MAKE SCANF IGNORE LETTERS
+
 int main(void) 
 {
 	float numInput1, numInput2;																//create float variables to hold numbers
