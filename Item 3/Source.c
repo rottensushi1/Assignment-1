@@ -1,6 +1,7 @@
 #include <stdio.h>
 //Taiyo Suzuki
 //Sept 23, 2022
+//PROG71985 - Assignment 1
 //Item 3: Prompt the user to input two floats and output their sum, product, and quotient
 
 

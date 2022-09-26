@@ -1,6 +1,7 @@
 #include <stdio.h>
 //Taiyo Suzuki
 //Sept 23, 2022
+//PROG71985 - Assignment 1
 //Item 1: Use the printf function to print your name to the screen 3 ways
 
 int main(void)
