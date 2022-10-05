@@ -7,7 +7,9 @@
 //PROG71985 - Assignment 1 Refactor
 //Item 1: Use the printf function to print a user-input name to the screen 3 ways
 
-//************************USE GETCHAR
+//************************Use getchar to save characters to an array one by one until a newline character is found. 
+//either ask the user how long their name is or reassign values to another array based on how many characters were found. if possible, separate first and last names.
+//"please specify how many characters are in your first name" - use that input to size array appropriately, then scan for and save first/last name
 
 int main(void)
 {
