@@ -14,7 +14,7 @@ int main(void)
 	if (scanf_s("%f", &numInput1) == 0)													//scan for user input and check if it is a float, and if it is, save it
 	{
 		printf("\nInput not recognised as a valid float, please try again.\n");			//if it is not a float, exit the program
-		exit(0);
+		exit(1);
 	}															
 
 	printf("First number: %f\n\nPlease enter second number: ", numInput1);				//display first number and prompt user for second number
@@ -22,7 +22,7 @@ int main(void)
 	if (scanf_s("%f", &numInput2) == 0)													//scan for user input and check if it is a float, and if it is, save it
 	{
 		printf("\nInput not recognised as a valid float, please try again.\n");			//if it is not a float, exit the program
-		exit(0);
+		exit(1);
 	}																
 
 	printf("Second number: %f", numInput2);												//display second number
